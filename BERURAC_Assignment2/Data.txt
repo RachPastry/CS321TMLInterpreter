@@ -1,0 +1,4 @@
+L0 sto r1 10
+L1 sto r2 5
+L2 sub r3 r1 r2
+L3 out r3
